@@ -1,6 +1,6 @@
 // Given two non-negative integers low and high. Return the count of odd numbers between low and high (inclusive).
 
-public class Main {
+public class CountOfOddNumbers {
     public static void main(String[] args) {
         System.out.println(countOdds(3, 7));
     }
