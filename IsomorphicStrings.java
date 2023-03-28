@@ -7,7 +7,7 @@ No two characters may map to the same character, but a character may map to itse
 
 import java.util.Arrays;
 
-public class Main {
+public class IsomorphicStrings {
     public static void main(String[] args) {
         System.out.println(isIsomorphic("egg", "add"));
     }
