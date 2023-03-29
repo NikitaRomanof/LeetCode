@@ -13,7 +13,7 @@
      * }
      */
 
-public class Main {
+public class MergedLinkedList {
 
     public static void main(String[] args) {
         ListNode list1 = new ListNode(1);
