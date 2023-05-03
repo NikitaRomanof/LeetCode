@@ -1,2 +1,2 @@
 # LeetCode
-Some sample problems from leetcode.com.
+Some sample problems from leetcode.com
